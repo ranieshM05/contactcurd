@@ -32,6 +32,7 @@ cd contact-manager
 🔹 2. Backend Setup
 
 cd backend
+
 npm init -y    
 npm install web-vitals express mongoose cors dotenv
 
@@ -59,6 +60,7 @@ npm install web-vitals
 🚀 Run Frontend
 
 npm start
+
 The frontend will run on http://localhost:3000 (or another available port)
 
 🖥 API Endpoints
