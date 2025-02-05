@@ -13,15 +13,15 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application to store 
 🛠 Tech Stack
 
 🌐 Frontend
-React.js
-Axios (for API calls)
-CSS (for styling)
+🔹React.js
+🔹Axios (for API calls)
+🔹CSS (for styling)
 
 ⚙️ Backend
-Node.js
-Express.js
-MongoDB with Mongoose
-CORS & dotenv
+🔹Node.js
+🔹Express.js
+🔹MongoDB with Mongoose
+🔹CORS & dotenv
 
  Setup Instructions
  1. Clone the Repository
@@ -31,10 +31,11 @@ cd contact-manager
 
 🔹 2. Backend Setup
 
-cd backend
+🔹cd backend
 
-npm init -y    
-npm install web-vitals express mongoose cors dotenv
+🔹npm init -y 
+   
+🔹npm install web-vitals express mongoose cors dotenv
 
 ✏️ Configure .env (inside backend/)
 Create a .env file and add:
@@ -49,17 +50,20 @@ The backend will run on http://localhost:3000
 
 🔹 3. Frontend Setup
 
-npx create-react-app frontend
-cd frontend
-npm install axios react-router-dom
-npm install web-vitals   
+🔹npx create-react-app frontend
+
+🔹cd frontend
+
+🔹npm install axios react-router-dom
+
+🔹npm install web-vitals   
 
 
 
 
 🚀 Run Frontend
 
-npm start
+🔹npm start
 
 The frontend will run on http://localhost:3000 (or another available port)
 
